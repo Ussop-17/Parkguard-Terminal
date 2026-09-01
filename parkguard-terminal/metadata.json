@@ -1,0 +1,7 @@
+{
+  "name": "ParkGuard Terminal",
+  "description": "A modern, AI-powered automated parking penalty system with community licensing, featuring real-time violation detection and automated penalty generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
